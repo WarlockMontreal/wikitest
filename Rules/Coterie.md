@@ -110,8 +110,8 @@ Coterie advantages:
 Bolt holes ●● (2 free dots)
 
 Coterie clan merits:
-<:Banu:1134621783945924679> Call to Purpose ●● (Ur Shulgi, 6 xp)
-<:lasombra:1134621669814714549> At Any Cost ●● (Montano, 6xp)
+![](/assets/banu_haqim.png) Call to Purpose ●● (Ur Shulgi, 6 xp)
+![](/assets/lasombra.png) At Any Cost ●● (Montano, 6xp)
 
 
 Pooled Backgrounds:

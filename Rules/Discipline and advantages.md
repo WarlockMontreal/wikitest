@@ -147,15 +147,15 @@ The time needed to create a formula is dependant on how strong the power is. The
 
 Our aim is to have more opportunities available to everyone to pick from, but at the same time, it does happen that sometime the story or the lore do not allow some concept to be played within this chronicle. As such, also some extremely overpopulated clans might be locked or capped, depending on the server life and population. No one likes a court where the majority is only one clan.
 
-- We strongly discourage <:sect_Independent:1132980562794123354>  Indies, especially fledglings and neonates. We have found that they are very hard to include in plots and with the overall game and they do not thrive in this environment. The contested area are _not_ up for grab so easily.
-- <:hecata:1134621683878203503> Hecata are not considered Indies but their own sect.
+- We strongly discourage ![](/assets/independant.png)  Indies, especially fledglings and neonates. We have found that they are very hard to include in plots and with the overall game and they do not thrive in this environment. The contested area are _not_ up for grab so easily.
+- ![](/assets/hecata.png) Hecata are not considered Indies but their own sect.
 - Bahari and Cultivars (of all types) are heavily monitored. Same goes for Nephilims and any other cult really.
 
 Moreover, some clans have their affiliation set in stone in the lore and within the server metaplot. That means that is impossible for certain clans to be a part of a different sect from the default one.
 
-- <:tzimisce:1134621687393046568> Tzimisce and <:Ministry:1148069301354496020> Ministry are <:anarch:1134621675305054208> Anarchs only. This include the variants such as Koldun Tzimisce and Sorcerer Ministry.
-- <:lasombra:1134621669814714549> Lasombra and <:Banu:1134621783945924679>  Banu Haqim are <:camarilla:1134621673300181033> Camarilla only.
-- <:hecata:1134621683878203503> Hecata clans are <:hecata:1134621683878203503> Hecata only.
+- ![](/assets/tzimisce.png) Tzimisce and ![](/assets/ministry.png) Ministry are ![](/assets/anarch.png) Anarchs only. This include the variants such as Koldun Tzimisce and Sorcerer Ministry.
+- ![](/assets/lasombra.png) Lasombra and ![](/assets/banu_haqim.png)  Banu Haqim are ![](/assets/camarilla.png) Camarilla only.
+- ![](/assets/hecata.png) Hecata clans are ![](/assets/hecata.png) Hecata only.
 
 There is no going around this rule and this decision, for the time being.
 
@@ -163,7 +163,7 @@ This is subject to change, depending how the story goes within the server. Maybe
 
 Misc. Restrictions
 
-- <:thinblood:636672237902233620>  Thinblood are very, very rarely embraced into the Hecata. As such, this concept would be rejected.
-- <:thinblood:636672237902233620> Thinblood can have access to Oblivion and Blood Sorcery through "*Discipline Affinity*" - Any character sheet with this will be heavily scrutinised as is really hard for such a specimen to thrive.
-- <:caitiff:1134621680317247538> Caitiff neonates and fledglings cannot have access to Oblivion and Blood Sorcery at CC.
+- ![](/assets/thinblood.png)  Thinblood are very, very rarely embraced into the Hecata. As such, this concept would be rejected.
+- ![](/assets/thinblood.png) Thinblood can have access to Oblivion and Blood Sorcery through "*Discipline Affinity*" - Any character sheet with this will be heavily scrutinised as is really hard for such a specimen to thrive.
+- ![](/assets/caitiff.png) Caitiff neonates and fledglings cannot have access to Oblivion and Blood Sorcery at CC.
 - Plague doctors and all associated rituals (Viral Haruspex, Egregore Consultation, etc etc) are banned. They don't fit the chronicles and the rules are vague at best, so we decided it wouldn't be an option for players.
