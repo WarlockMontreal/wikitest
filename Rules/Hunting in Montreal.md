@@ -125,7 +125,7 @@ Locations:
   - DC 2
 - :anarch: #Montreal East - Hôpital Vétérinaire de L’Est: a small veterinary clinic that offers back alley deal for the right price.
   - DC 2
-- - :indie: #Ahuntsic - Fleury Hospital an extremely low funded hospital that can hardly cater to their own patient.
+- :indie: #Ahuntsic - Fleury Hospital an extremely low funded hospital that can hardly cater to their own patient.
   - DC 3
 
 
