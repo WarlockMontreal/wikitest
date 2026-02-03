@@ -101,11 +101,11 @@ An assault-feeder, this Kindred chooses to stalk, overpower, feed and escape fro
 
 Locations: 
 
-![](/assets/camarilla.png) - <#1131321457411100750>: Devil's hill - Rare rough location near Westmont, it is possible to find some dark alley near a pub, some shady drug dealers or some low level crime.
+:Camarilla: # Montreal west - Devil's Hill - A prominent, elevated area known for its panoramic views of the surrounding neighborhood.  - Rare rough location near Westmont, it is possible to find some dark alley near a pub, some shady drug dealers or some low level crime.
 - DC 3
-![](/assets/anarch.png) - <#1131321457734074461>: Hocelaga is well known for being the roughest Neighboorhood of Montreal.
+:anarch: #Mercier Hocelaga Maisonneuve - Marché Maisonneuve A large public market housed in a beaux-arts building with brick columns and arched windows. 
 - DC 2
-![](/assets/independent.png) - <#1131321457033621523>: The old port contains a lot of dark spots, few alleys away from the more turistic attactions.
+:indie: #The old Port - The Labyrinth alleys. The old port contains a lot of dark spots, few alleys away from the more turistic attactions.
 - DC 4
 
 
@@ -119,11 +119,11 @@ A crit can yeld one extra blood bag.
 - Intelligence + Streetwise
 
 Locations:
-![](/assets/camarilla.png)  <#1131321457411100750> LaSalle hospital: a small hospital near the river.
+:camarilla: #Montreal West Verdun Hospital a small hospital near the river.
 - DC 2
-![](/assets/anarch.png) <#1131321457734074463> Hôpital Vétérinaire de L’Est: a small veterinary clinic that offers back alley deal for the right price
+:anarch: #Montreal East - Hôpital Vétérinaire de L’Est: a small veterinary clinic that offers back alley deal for the right price
 - DC 2
-![](/assets/independent.png) <#1131321457033621521> Fleury Hospital an extremely low funded hospital that can hardly cater to their own patient
+:indie: #Ahuntsic - Fleury Hospital an extremely low funded hospital that can hardly cater to their own patient
 - DC 3
 
 
@@ -140,9 +140,9 @@ This Kindred feeds covertly from a mortal family and friends, often their own.
 - Manipulation + Subterfuge
 
 Locations: 
-![](/assets/camarilla.png) <#1138461713621061724> Lakeshore rd: a small and semi-enclosed block with a lot of small houses and villas.
+:camarilla: #Beaconsfield - Lakeshore rd: a small and semi-enclosed block with a lot of small houses and villas.
 - DC 4
-![](/assets/anarch.png) <#1131321457734074460> Emmanuel church: the low income and gentrified neighbourhood of the Emmanuel church has an high number of families scattered in the area.
+:Anarch: #Montreal Nord - Emmanuel church: the low income and gentrified neighbourhood of the Emmanuel church has an high number of families scattered in the area.
 - DC 4
 
 # Consensualist
@@ -160,11 +160,11 @@ This Kindred acquires blood in exchange for services rendered.
 - Manipulation + Intimidation
 
 Locations: 
-![](/assets/camarilla.png) - <#1131321457411100750> : Devil's hill - Rare rough location near Westmont, it is possible to find some dark alley near a pub, some shady drug dealers or some low level crime.
+:camarilla: #Montreal west - Monkland Avenue - A lively commercial street running through Montreal West, lined with a mix of independent shops, cafés, and restaurants.
 DC 3
-![](/assets/anarch.png)  - <#1131321457734074460>  Emmanuel church: the low income and gentrified neighbourhood of the Emmanuel church has an high number of families scattered in the area.
+:anarch: #Montreal-nord - Emmanuel church: the low income and gentrified neighbourhood of the Emmanuel church has an high number of families scattered in the area.
 DC 3
-![](/assets/independent.png) - <#1131321457033621523>  The old port contains a lot of dark spots, few alleys away from the more turistic attactions.
+:indie: The Labyrinth alleys. The old port contains a lot of dark spots, few alleys away from the more turistic attactions. - Place Jacques-Cartier contains a lot of dark spots, few alleys away from the more turistic attactions.
 DC 4
 
 # Farmer
@@ -174,11 +174,11 @@ This Kindred only feeds from animals.
 - Composure + Animal Ken
 
 Locations
-![](/assets/camarilla.png) - <#1131321457411100749> Parc-nature du Bois-de-L'Île-Bizard Medium: An estensive natural park and reserve.
+:camarilla: #Ile-bizard - Bois-de-l'Île-Bizard: An estensive natural park and reserve.
 DC 3
-![](/assets/anarch.png) - <#1131321457734074462> Bois-d'Anjou Nature Park: Another major park inside the city of Montreal
+:anarch: #Roviere-des-Prairies - Bois-d'Anjou Nature Park: Another major park inside the city of Montreal
 DC 3
-![](/assets/independent.png) - <#1131321458119946463> Outisde the island, there are parks and woods. It might be danjerous to wander those lands alone at night...
+:indie: #wilderness - Outisde the island, there are parks and woods. It might be danjerous to wander those lands alone at night...
 DC 4
 
 # Graverobber
@@ -189,11 +189,11 @@ Graverobbers often feed from fresh corpses, though they actually prefer feeding 
 - Manipulation + Insight (for feeding on the vulnerable)
 
 Locations: 
-![](/assets/camarilla.png)   <#1131321457411100750> LaSalle hospital: a small hospital near the river.
+:camarilla: #Montreal-west: Verdun hospital: a small hospital near the river.
 DC 3
-![](/assets/anarch.png) <#1131321457734074461> Le Repos Saint-François d'Assise: A major graveyard located just slight north of citè Jardin
+:anarchs: #Mercier-Hocelaga-Maissonneuve Le Repos Saint-François d'Assise: A major graveyard located just slight north of citè Jardin
 DC 3
-![](/assets/independent.png) <#1131321457033621522> Mount Royal Cemetery: The biggest graveyard at the heart of the city. Mostly old burials, but some parts are still actively being used
+:indie: #Mont-Royal-Plateau - Mount Royal Cemetery: The biggest graveyard at the heart of the city. Mostly old burials, but some parts are still actively being used
 DC 2
 
 # Grim Reaper
@@ -204,9 +204,9 @@ Known as plague-rats, these Kindred feed exclusively on the dying. They find the
 - Intelligence + Medicine
 
 Locations:
-![](/assets/camarilla.png)  <#1131321457411100750>  LaSalle hospital: a small hospital near the river.
+:camarilla: #Montreal-west: Verdun hospital: a small hospital near the river.
 DC 2
-![](/assets/independent.png) ⁠ <#1131321457033621521>  Fleury Hospital an extremely low funded hospital that can hardly cater to their own patient
+:indie: #Ahuntsic - Fleury Hospital an extremely low funded hospital that can hardly cater to their own patient
 DC 2
 
 # Montero
@@ -216,11 +216,11 @@ A Spanish loanword, the montería were mounted deer hunts where a set of beater 
 - Resolve + Stealth
 
 Locations: 
-![](/assets/camarilla.png) - <#1131321457411100750> : Devil's hill - Rare rough location near Westmont, it is possible to find some dark alley near a pub, some shady drug dealers or some low level crime.
+:camarilla: #Montreal west - Monkland Avenue - A lively commercial street running through Montreal West, lined with a mix of independent shops, cafés, and restaurants.
 DC 3
-![](/assets/anarch.png)  - <#1131321457734074460>  Emmanuel church: the low income and gentrified neighbourhood of the Emmanuel church has an high number of families scattered in the area.
+:anarch: #Montreal-nord - Emmanuel church: the low income and gentrified neighbourhood of the Emmanuel church has an high number of families scattered in the area.
 DC 3
-![](/assets/independent.png) - <#1131321457033621523>  The old port contains a lot of dark spots, few alleys away from the more turistic attactions.
+:indie: #the-old-port - The Labyrinth alleys. The old port contains a lot of dark spots, few alleys away from the more turistic attactions.
 DC 4
 
 # Osiris
@@ -240,11 +240,11 @@ The pursuer hunts targets that will never be missed. Studying their victims, lea
 - Stamina + Stealth
 
 Locations: 
-![](/assets/camarilla.png) - <#1131321457411100750> : Devil's hill - Rare rough location near Westmont, it is possible to find some dark alley near a pub, some shady drug dealers or some low level crime.
+:camarilla: - #montreal-west : Devil's Hill - A prominent, elevated area known for its panoramic views of the surrounding neighborhood.  - Rare rough location near Westmont, it is possible to find some dark alley near a pub, some shady drug dealers or some low level crime.
 DC 3
-![](/assets/anarch.png)  - <#1131321457734074460>  Emmanuel church: the low income and gentrified neighbourhood of the Emmanuel church has an high number of families scattered in the area.
+:anarch:  - #Montreal-nord: Emmanuel church: the low income and gentrified neighbourhood of the Emmanuel church has an high number of families scattered in the area.
 DC 3
-![](/assets/independent.png) - <#1131321457033621523>  The old port contains a lot of dark spots, few alleys away from the more turistic attactions.
+:indie: #the-old-port - The Labyrinth alleys. The old port contains a lot of dark spots, few alleys away from the more turistic attactions.
 DC 4
 
 # Roadside Killer
@@ -254,11 +254,11 @@ This Kindred feeds exclusively from the transient population. From the Truckers,
 - Charisma + Drive
 
 Locations: 
-![](/assets/camarilla.png) <#1131321457411100748>: The main international airport and the surrounding area are always full of people in transit
+:camarilla: #Elliot-Trudeau-International-airport: The main international airport and the surrounding area are always full of people in transit
 DC 3
-![](/assets/anarch.png) <#1131321457734074461> Charron Island: A small pier on the island is the host of many turistic tracts and some commercial boats might stop there as well
+:anarch: #mercier-hochelaga-maisonneuve Charron Island: A small pier on the island is the host of many turistic tracts and some commercial boats might stop there as well
 DC 3
-![](/assets/independent.png) <#1131321457033621522> The Mount Royal, the main attraction of the city, is a place ripe of tourists of all kind.
+:indie: #Mont-Royal-Plateau The Mount Royal, the main attraction of the city, is a place ripe of tourists of all kind.
 DC 3
 
 # Sandman
@@ -268,9 +268,9 @@ This Kindred prefers to feed from sleeping victims using stealth or Disciplines.
 - Dexterity + Stealth
 
 Locations:
-![](/assets/camarilla.png)  <#1138461713621061724> Lakeshore rd: a small and semi-enclosed block with a lot of small houses and villas.
+:camarilla: #beaconsville Lakeshore rd: a small and semi-enclosed block with a lot of small houses and villas.
 DC 4
-![](/assets/anarch.png)  <#1131321457734074460>  Emmanuel church: the low income and gentrified neighbourhood of the Emmanuel church has an high number of families scattered in the area.
+:anarch:  #Montreal-nord  Emmanuel church: the low income and gentrified neighbourhood of the Emmanuel church has an high number of families scattered in the area.
 DC 4
 
 # Siren
@@ -280,11 +280,11 @@ The Kindred feeds almost exclusively during (or while feigning) sex, relying on 
 - Charisma + Subterfuge
 
 Locations:
-![](/assets/camarilla.png)  <#1131321457411100748> La Source du Sexe: near the airport there is a night and strip club
+:camarilla:  #Elliot-Trudeau-International-airport - La Source du Sexe: near the airport there is a night and strip club
 DC 3
-![](/assets/anarch.png) <#1146576306495049839>: The BDSM nighclub owned by the Reeves is available - just dont mess up 😉
+:anarch: #gay-village - The Heart: The BDSM nighclub owned by the Reeves is available - just dont mess up 😉
 DC 3
-![](/assets/independent.png) <#1131321457033621523> Velvet Speakeasy: Accessed by going through catacombs, this stylish club offers cocktails, DJs & late-night dancing.
+:indie: #the-old-port - Velvet Speakeasy: Accessed by going through catacombs, this stylish club offers cocktails, DJs & late-night dancing.
 DC 3
 
 # Scene queen
@@ -305,9 +305,9 @@ The Kindred builds a trap, in the form of their haven, and lures their prey into
 - Dexterity + Stealth (if you feed on trespassers, urban explorers, or other passersby.)
 
 Locations (for the second type of hunt):
-![](/assets/camarilla.png) - <#1131321457411100750> : Devil's hill - Rare rough location near Westmont, it is possible to find some dark alley near a pub, some shady drug dealers or some low level crime.
+:camarilla: - #montreal-west : Devil's Hill - A prominent, elevated area known for its panoramic views of the surrounding neighborhood.
 DC 3
-![](/assets/anarch.png)  - <#1131321457734074460>  Emmanuel church: the low income and gentrified neighbourhood of the Emmanuel church has an high number of families scattered in the area.
+:anarch:  - #Montreal-nord  Emmanuel church: the low income and gentrified neighbourhood of the Emmanuel church has an high number of families scattered in the area.
 DC 3
-![](/assets/independent.png) - <#1131321457033621523>  The old port contains a lot of dark spots, few alleys away from the more turistic attactions.
+:indie: #the-old-port - The Labyrinth alleys. The old port contains a lot of dark spots, few alleys away from the more turistic attactions.
 DC 4
