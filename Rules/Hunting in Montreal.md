@@ -103,11 +103,11 @@ An assault-feeder, this Kindred chooses to stalk, overpower, feed and escape fro
 Locations: 
 
 - :Camarilla: # Montreal west - Devil's Hill - A prominent, elevated area known for its panoramic views of the surrounding neighborhood.  - Rare rough location near Westmont, it is possible to find some dark alley near a pub, some shady drug dealers or some low level crime.  
-> DC 3  
-- :anarch: #Mercier Hocelaga Maisonneuve - Marché Maisonneuve A large public market housed in a beaux-arts building with brick columns and arched windows.  
-> DC 2  
+  - DC 3  
+- :anarch: #Mercier Hocelaga Maisonneuve - Marché Maisonneuve A large public market housed in a beaux-arts building with brick columns and arched windows.
+  - DC 2  
 - :indie: #The old Port - The Labyrinth alleys. The old port contains a lot of dark spots, few alleys away from the more turistic attactions.  
-> DC 4  
+  - DC 4  
 
 
 # Bagger
