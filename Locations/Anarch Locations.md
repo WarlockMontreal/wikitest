@@ -45,11 +45,11 @@
 
 **Currently Owned By The Wolfhounds Coterie**  
 ```**Domain Traits:**
-* **Domain:** ●
-* **Chasse:** ●
-* **Lien:** ● (●●)
+*Domain: ●
+*Chasse: ●
+*Lien: ● (●●)
     * ↪ Marketplace ●●
-* **Portillon:** ●
+*Portillon:** ●
 ```
 ---
 
