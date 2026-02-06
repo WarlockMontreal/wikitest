@@ -5,7 +5,7 @@ on:
       - main
     paths:
       - '**/*.md'
-      - '!SUMMARY.md' # Don't run if only SUMMARY changed, prevents loops
+      - '!SUMMARY.md'
 
 permissions:
   contents: write
@@ -23,27 +23,48 @@ jobs:
           echo "* [Introduction](README.md)" >> SUMMARY.md
           echo "" >> SUMMARY.md
 
-          # Function to list files in a directory
+          # Function to list files with custom ordering
+          # Usage: list_files "Folder" "Title" "Emoji" "Pinned_File_1.md|Pinned_File_2.md"
           list_files() {
             local dir="$1"
             local title="$2"
             local emoji="$3"
+            local pinned_files="$4" # Pipe-separated list of files to show first
             
             if [ -d "$dir" ]; then
               echo "## $emoji $title" >> SUMMARY.md
               
-              # Add the Section Overview (README) if it exists
+              # 1. Add the Section Overview (README) if it exists
               if [ -f "$dir/README.md" ]; then
                 echo "* [$title Overview]($dir/README.md)" >> SUMMARY.md
               fi
 
-              # List all other .md files, sorted, excluding README
+              # 2. Add Pinned Files (in the exact order you specify)
+              if [ ! -z "$pinned_files" ]; then
+                # Split the pinned string by |
+                IFS='|' read -ra PINNED <<< "$pinned_files"
+                for filename in "${PINNED[@]}"; do
+                  filepath="$dir/$filename"
+                  if [ -f "$filepath" ]; then
+                     clean_title=$(echo "$filename" | sed 's/.md//' | sed 's/_/ /g')
+                     encoded_path=$(echo "$filepath" | sed 's/ /%20/g')
+                     echo "* [$clean_title]($encoded_path)" >> SUMMARY.md
+                  fi
+                done
+              fi
+
+              # 3. Add the rest of the files (Alphabetical), excluding README and Pinned files
+              # We construct a grep pattern to exclude the pinned files
+              exclude_pattern="README.md"
+              if [ ! -z "$pinned_files" ]; then
+                 exclude_pattern="$exclude_pattern|$pinned_files"
+              fi
+
               find "$dir" -maxdepth 1 -name "*.md" | sort | while read filepath; do
                 filename=$(basename "$filepath")
-                if [ "$filename" != "README.md" ]; then
-                  # Remove extension for title and replace %20/underscores with spaces
+                # Check if file matches the exclude pattern
+                if ! echo "$filename" | grep -qE "^($exclude_pattern)$"; then
                   clean_title=$(echo "$filename" | sed 's/.md//' | sed 's/_/ /g')
-                  # Encode spaces for the link
                   encoded_path=$(echo "$filepath" | sed 's/ /%20/g')
                   echo "* [$clean_title]($encoded_path)" >> SUMMARY.md
                 fi
@@ -52,22 +73,26 @@ jobs:
             fi
           }
 
-          # --- DEFINE YOUR SECTIONS HERE ---
-          # The script will look for these folders and build the list
+          # --- CONFIGURATION AREA ---
           
-          list_files "Rules" "Rules" "📜"
-          list_files "Locations" "Locations" "🗺️"
-          list_files "Coteries" "Coteries" "👥"
+          # RULES: Hunting rules first, then Character Creation
+          list_files "Rules" "Rules" "📜" "Hunting in Montreal.md|Character Creation.md"
+
+          # LOCATIONS: Master Directory first, then Maps
+          list_files "Locations" "Locations" "🗺️" "Locations Directory.md|Contested Locations.md"
+
+          # COTERIES: No specific order (defaults to A-Z)
+          list_files "Coteries" "Coteries" "👥" ""
+          
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add SUMMARY.md
-          # Only commit if SUMMARY.md has actually changed
           if git diff --staged --quiet; then
             echo "No changes to SUMMARY.md"
           else
-            git commit -m "🤖 Auto-update SUMMARY.md"
+            git commit -m "🤖 Auto-update SUMMARY.md with custom order"
             git push
           fi
