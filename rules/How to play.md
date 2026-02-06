@@ -44,7 +44,8 @@ When rolling for actions, clearly indicate the intent of the roll, as well as th
 
 Example:
 
-```[Rouse Check: Successful, Unseen Passage Activated]
+```
+[Rouse Check: Successful, Unseen Passage Activated]  
 [Siren Hunt: Charisma + Manipulation + Specialty - Seduction, DC 3 = 6 successes]
 ```
 
@@ -52,7 +53,8 @@ it's important to keep track of those in the post as it's easier to reference th
 
 If using backgrounds, state how many dots are blanked and why:
 
-```[Blanked out Resources 3 to purchase a SUV]
+```
+[Blanked out Resources 3 to purchase a SUV]
 ```
 
 ### Exiting a Scene
