@@ -26,3 +26,4 @@
   * [test](coteries/test.md)
 * [assets](assets/README.md)
   * [-](assets/-.md)
+  * [test](test/test.md)
